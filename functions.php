@@ -3,7 +3,8 @@
 /**
  * Assets
  */
-function cisf_enqueue_resources() {
+function cisf_enqueue_resources()
+{
     wp_enqueue_style('bootstrap-5-css', get_template_directory_uri() . '/assets/css/bootstrap.min.css');
 
     wp_enqueue_script('jquery');

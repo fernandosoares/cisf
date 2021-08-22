@@ -10,7 +10,7 @@
                     <a class="nav-link d-md-flex align-items-center justify-content-center" href="#hero">HOME</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link d-md-flex align-items-center justify-content-center" href="#cist">O QUE É O CISF</a>
+                    <a class="nav-link d-md-flex align-items-center justify-content-center" href="#about">O QUE É O CISF</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link d-md-flex align-items-center justify-content-center" href="#cist">PROGRAMAÇÃO</a>

@@ -16,7 +16,8 @@
         padding-right: 35px !important;
     }
 
-    .nav-item a:hover {
+    .nav-item a:hover,
+    .nav-item a.active {
         background-color: #52c975 !important;
     }
 }

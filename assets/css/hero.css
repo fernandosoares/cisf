@@ -1,0 +1,32 @@
+#hero {
+    background: url(../img/header.jpg) no-repeat;
+    background-size: cover;
+    min-height: 800px;
+}
+
+#hero .container {
+    padding-top: 200px;
+}
+
+#hero img {
+    max-height: 160px;
+    margin-left: -30px;
+}
+
+#hero .event-date {
+    font-size: 40px;
+    color: #52c975;
+    font-weight: 700;
+}
+
+#hero .event-short-text {
+    font-size: 22px;
+    color: #fffffe;
+    font-weight: 400;
+}
+
+#hero button {
+    background-color: #52c975;
+    font-weight: 900;
+    font-size: 21px;
+}

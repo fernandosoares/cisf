@@ -1,13 +1,22 @@
-<div class="conatiner">
-    <div class="event-title">
-        <img src="" alt="">
-        <h1></h1>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="event-title">
+                <img loading="lazy" src="<?= get_template_directory_uri() . '/assets/img/logo-cisf.png'?>" alt="CISF" />
+            </div>
+        </div>
     </div>
-    <div class="event-date">
-
+    <div class="row">
+        <div class="col-12 col-md-4">
+            <div class="event-date">
+                <p>14, 15 e 16 de setembro | às 17h</p>
+            </div>
+            <div class="event-short-text">
+                <p>
+                    As melhores práticas e estratégias aplicadas às novidades de mercado   
+                </p>
+            </div>
+            <button href="" class="event-cta shadow btn btn-primary">CLIQUE AQUI E INSCREVA-SE</button>
+        </div>
     </div>
-    <div class="event-short-text">
-
-    </div>
-    <button href="" class="event-cta btn btn-primary">QUERO PARTICIPAR</button>
 </div>

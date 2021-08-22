@@ -22,7 +22,7 @@
         <?php include('views/about.php'); ?>
     </section>
     
-    <section id="about">
+    <section id="speakers">
         <?php include('views/speakers.php'); ?>
     </section>
     

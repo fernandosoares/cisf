@@ -15,4 +15,6 @@ jQuery(document).ready(function() {
         jQuery(this).addClass('active');
     });
 
+    jQuery(document).find('#slick').slick();
+
 });

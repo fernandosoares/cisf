@@ -13,7 +13,7 @@
                     <a class="nav-link d-md-flex align-items-center justify-content-center" href="#about">O QUE É O CISF</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link d-md-flex align-items-center justify-content-center" href="#cist">PROGRAMAÇÃO</a>
+                    <a class="nav-link d-md-flex align-items-center justify-content-center" href="#speakers">PROGRAMAÇÃO</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link d-md-flex align-items-center justify-content-center" href="#cist">AO VIVO</a>

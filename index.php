@@ -30,7 +30,7 @@
         <?php include('views/countdown.php'); ?>
     </section>
     
-    <section id="countdown">
+    <section id="footer">
         <?php include('views/footer.php'); ?>
     </section>
 

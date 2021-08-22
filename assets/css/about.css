@@ -24,6 +24,8 @@
     text-align: center;
     margin-top: 70px;
     padding: 15px;
+    width: 30%;
+    background-color: #fff;
 }
 
 #about .container .card-about h3 {
@@ -40,5 +42,5 @@
 }
 
 #about .container .card-about img {
-    margin-bottom: 20px;
+    margin: 20px;
 }

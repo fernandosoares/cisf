@@ -1,9 +1,8 @@
 #speakers {
     background: url(../img/bg-speakers.jpg) no-repeat;
     background-size: cover;
-    min-height: 800px;
     color: #fff;
-    padding: 100px 0 0 0
+    padding: 100px 0 30px 0;
 }
 
 #speakers .date .day {
@@ -59,4 +58,21 @@
     content: '\00AB' !important;
     font-size: 80px;
     color:#52c975;
+}
+
+@media screen and (max-width: 767px) {
+    #speakers {
+        background: url(../img/bg-speakers.jpg) no-repeat;
+        background-size: cover;
+        background-position: 8%;
+        padding: 30px;
+    }
+
+    #speakers .date .day {
+        width: initial;
+        height: initial;
+        text-align: center;
+        display: inline-block;
+        padding: 20px;
+    }
 }

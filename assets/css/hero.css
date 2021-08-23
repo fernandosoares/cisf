@@ -1,11 +1,11 @@
 #hero {
     background: url(../img/header.jpg) no-repeat;
     background-size: cover;
-    min-height: 800px;
 }
 
 #hero .container {
     padding-top: 200px;
+    padding-bottom: 100px;
 }
 
 #hero img {
@@ -31,4 +31,22 @@
     font-size: 21px;
     border: none;
     padding: 15px 25px;
+}
+
+@media screen and (max-width: 767px) {
+
+    #hero {
+        background: url(../img/header.jpg) no-repeat;
+        background-position: 50% 0;
+        background-size: cover;
+    }
+
+    #hero .container {
+        padding: 60px 30px;
+    }
+
+    #hero .event-date {
+        color: #fffffe
+    }
+    
 }

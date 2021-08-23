@@ -5,7 +5,7 @@
             <p>Em sua terceira edição, o congresso debate temas atuais do ecossistema financeiro. Por meio de palestras e painéis, grandes especialistas promovem o compartilhamento de boas práticas que apoiam o mercado na superação dos desafios de negócio. Não perca!</p>
         </div>
     </div>
-    <div class="row justify-content-between">
+    <div class="row cisf justify-content-between">
         <div class="card-about shadow col-12 col-md-3">
             <h3>ESG e Mudanças Climáticas</h3>
             <img src="<?= get_template_directory_uri() . '/assets/img/esg.png'?>" alt="ESG">

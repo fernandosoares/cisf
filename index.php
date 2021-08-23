@@ -37,6 +37,10 @@
     <section id="footer">
         <?php include('views/footer.php'); ?>
     </section>
+    
+    <section id="green-footer">
+        <?php include('views/green-footer.php'); ?>
+    </section>
 
     <?php wp_footer(); ?>
 </body>

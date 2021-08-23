@@ -44,3 +44,17 @@
 #about .container .card-about img {
     margin: 20px;
 }
+
+@media screen and (max-width: 767px) {
+    #about {
+        padding: 30px 0;
+    }
+    
+    #about .row.cisf {
+        justify-content: center !important;
+    }
+
+    #about .card-about {
+        width: 85% !important;
+    }
+}

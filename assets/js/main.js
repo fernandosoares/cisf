@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
     jQuery(document).find('.nav-item > a').first().addClass('active');
     // jQuery('html, body').animate({scrollTop: 0}, 500);
 
-    jQuery('#countdown').countdown('2021/09/14', function(event) {
+    jQuery('#countdown-show').countdown('2021/09/14', function(event) {
         jQuery(this).find('.days > .number').text(event.strftime('%D'));
         jQuery(this).find('.hours > .number').text(event.strftime('%H'));
         jQuery(this).find('.minutes > .number').text(event.strftime('%M'));

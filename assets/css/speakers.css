@@ -2,4 +2,61 @@
     background: url(../img/bg-speakers.jpg) no-repeat;
     background-size: cover;
     min-height: 800px;
+    color: #fff;
+    padding: 100px 0 0 0
+}
+
+#speakers .date .day {
+    background-color: #52c975;
+    font-weight: 900;
+    font-size: 50px;
+    width: 155px;
+    height: 155px;
+}
+
+#speakers .date-panel p.date span {
+    font-size: 40px;
+}
+
+#speakers .date-panel p.date {
+    font-size: 16px;
+    margin-left: 40px;
+}
+
+#speakers .date-panel p {
+    margin: 0;
+}
+
+#speakers .row.speakers {
+    margin-top: 80px;
+}
+
+#speakers .row.speakers .speaker small {
+    font-size: 20px;
+    font-weight: 700;
+    color: #52c975;
+}
+
+#speakers .row.speakers .speaker h4 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #52c975;
+}
+
+#speakers .row.speakers .speaker p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #fffffe;
+}
+
+#speakers .slick-next:before {
+    content: '\00BB' !important;
+    font-size: 80px;
+    color:#52c975;
+}
+
+#speakers .slick-prev:before {
+    content: '\00AB' !important;
+    font-size: 80px;
+    color:#52c975;
 }

@@ -16,5 +16,6 @@ jQuery(document).ready(function() {
     });
 
     jQuery(document).find('#slick').slick();
+    jQuery(document).find('#live-slides').slick();
 
 });

@@ -1,0 +1,39 @@
+#live {
+    background: url(../img/bg-live.jpg) no-repeat;
+    background-size: cover;
+    min-height: 750px;
+    padding-bottom: 40px;
+}
+
+#live h3 {
+    color: #52c975;
+    font-size: 60px;
+    font-weight: 700;
+    margin: 75px 0;
+}
+
+#live .slick-next {
+    right: -50px;
+}
+
+#live .slick-next:before {
+    content: '\00BB' !important;
+    font-size: 120px;
+    font-weight: 700;
+    color:#52c975;
+}
+
+#live .slick-prev {
+    left: -90px;
+}
+
+#live .slick-prev:before {
+    content: '\00AB' !important;
+    font-size: 120px;
+    font-weight: 700;
+    color:#52c975;
+}
+
+#live #live-slides {
+    margin-bottom: 40px;
+}

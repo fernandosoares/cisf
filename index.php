@@ -26,6 +26,10 @@
         <?php include('views/speakers.php'); ?>
     </section>
     
+    <section id="live">
+        <?php include('views/live.php'); ?>
+    </section>
+    
     <section id="countdown">
         <?php include('views/countdown.php'); ?>
     </section>

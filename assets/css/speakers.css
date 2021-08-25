@@ -48,6 +48,13 @@
     color: #fffffe;
 }
 
+@media screen and (min-width: 768px) {
+    #speakers .row.speakers .speaker p {
+        max-width: 330px;
+        margin: 0 auto;
+    }
+}
+
 #speakers .slick-next:before {
     content: '\00BB' !important;
     font-size: 80px;
@@ -64,7 +71,7 @@
     #speakers {
         background: url(../img/bg-speakers.jpg) no-repeat;
         background-size: cover;
-        background-position: 8%;
+        background-position: 12%;
         padding: 30px;
     }
 

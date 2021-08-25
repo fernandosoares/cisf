@@ -36,3 +36,18 @@
 #live #live-slides {
     margin-bottom: 40px;
 }
+
+#live .slick-track a img {
+    width: 100% !important;
+}
+
+@media screen and (max-width: 767px) {
+    #live {
+        background-position: 64%;
+        padding: 20px;
+    }
+
+    #live h3 {
+        margin: 20px 0;
+    }
+}

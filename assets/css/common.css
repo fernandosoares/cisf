@@ -6,6 +6,9 @@ body {
 
 @media screen and (max-width: 767px) {
     .slick-arrow {
-        display: none !important;
+        /* display: none !important; */
+    }
+    #speakers .slick-next {
+        right: -5px !important;
     }
 }

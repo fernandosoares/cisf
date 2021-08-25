@@ -17,3 +17,11 @@ function cisf_enqueue_resources()
     wp_enqueue_script('main-js', get_template_directory_uri() . '/assets/js/main.js', ['jquery-countdown'], false, true);
 }
 add_action('wp_enqueue_scripts', 'cisf_enqueue_resources');
+
+add_action('init', function () {
+    remove_action('wp_head', 'wp_print_scripts');
+    remove_action('wp_head', 'wp_print_head_scripts', 9);
+    remove_action('wp_head', 'print_emoji_detection_script', 7);
+    add_action('wp_footer', 'wp_print_scripts', 5);
+    add_action('wp_footer', 'wp_print_head_scripts', 5);
+});

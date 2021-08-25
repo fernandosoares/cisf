@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-12 col-md-4">
             <h4>Quem Somos</h4>
-            <p>A ABBC Educação Executiva pertence à Associação Brasileira de Bancos e possui mais de 15 anos de experiência em treinamentos.</p>
+            <p>Representamos os interesses de bancos de diversos portes, de controle nacional e estrangeiro, financeiras, cooperativas, instituições de pagamento, sociedades de crédito privado, sociedades de empréstimo pessoal e fintechs.</p>
         </div>
         <div class="col-12 col-md-4">
             <h4>Endereço</h4>
@@ -23,10 +23,10 @@
         </div>
         <div class="col-12 col-md-4">
             <h4>Conecte-se Conosco</h4>
-            <a href="" target="_blank"><img src="<?= get_template_directory_uri() . '/assets/img/ICONE_YOUTUBE.png'?>" alt="" class="social" /></a>
+            <!-- <a href="" target="_blank"><img src="<?= get_template_directory_uri() . '/assets/img/ICONE_YOUTUBE.png'?>" alt="" class="social" /></a> -->
             <a href="https://www.linkedin.com/company/abbc-associacao-brasileira-de-bancos/?viewAsMember=true" target="_blank"><img src="<?= get_template_directory_uri() . '/assets/img/ICONE_LINKEDIN.png'?>" alt="" class="social" /></a>
             <a href="https://www.facebook.com/abbc.br" target="_blank"><img src="<?= get_template_directory_uri() . '/assets/img/ICONE_FACEBOOK.png'?>" alt="" class="social" /></a>
-            <a href="" target="_blank"><img src="<?= get_template_directory_uri() . '/assets/img/ICONE_SPOTIFY.png'?>" alt="" class="social" /></a>
+            <!-- <a href="" target="_blank"><img src="<?= get_template_directory_uri() . '/assets/img/ICONE_SPOTIFY.png'?>" alt="" class="social" /></a> -->
             <a href="https://www.instagram.com/abbc.br/" target="_blank"><img src="<?= get_template_directory_uri() . '/assets/img/ICONE_INSTAGRAM.png'?>" alt="" class="social" /></a>
         </div>
     </div>

@@ -9,14 +9,14 @@
     <div class="row">
         <div class="col-12 col-md-4">
             <div class="event-date">
-                <p>14, 15 e 16 de setembro | às 17h</p>
+                <p>14, 15 e 16 de setembro | 17h</p>
             </div>
             <div class="event-short-text">
                 <p>
                     As melhores práticas e estratégias aplicadas às novidades de mercado   
                 </p>
             </div>
-            <button href="" class="event-cta shadow btn btn-primary">CLIQUE AQUI E INSCREVA-SE</button>
+            <a href="#countdown" class="event-cta shadow btn btn-primary">CLIQUE AQUI E INSCREVA-SE</a>
         </div>
     </div>
 </div>

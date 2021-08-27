@@ -4,6 +4,14 @@
     color: #fff;
 }
 
+#green-footer p {
+    margin: 0 0 5px 0;
+}
+#green-footer a {
+    color: #fff;
+}
+
+
 @media screen and (max-width: 767px) {
     #green-footer .logo-footer {
         justify-content: center !important;

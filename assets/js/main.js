@@ -18,4 +18,10 @@ jQuery(document).ready(function() {
     jQuery(document).find('#slick').slick();
     jQuery(document).find('#live-slides').slick();
 
+    jQuery(document).find('.nav-link').on('click', function() {
+        if(window.innerWidth <= 768) {
+            return new bootstrap.Collapse('.collapse');
+        };
+    });
+
 });

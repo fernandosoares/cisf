@@ -1,7 +1,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12 justify-content-center">
-            <h2>O CISF<small>Congresso de Inovação do Serviço Financeiro</small></h2>
+            <h2>O CISF<small>Congresso de Inovação em Serviços Financeiros</small></h2>
             <p>Em sua terceira edição, o congresso debate temas atuais do ecossistema financeiro. Por meio de palestras e painéis, grandes especialistas promovem o compartilhamento de boas práticas que apoiam o mercado na superação dos desafios de negócio. Não perca!</p>
         </div>
     </div>

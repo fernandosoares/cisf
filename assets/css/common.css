@@ -4,11 +4,30 @@ body {
     font-style: normal;
 }
 
+#cookie-notice {
+    background-color: #444 !important;
+}
+
+#cookie-notice a:not(.btn-cookie) {
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+#cookie-notice a.btn-cookie {
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: #007e43;
+}
+
 @media screen and (max-width: 767px) {
     .slick-arrow {
         /* display: none !important; */
     }
     #speakers .slick-next {
         right: -5px !important;
+    }
+
+    #live .slick-arrow {
+        display: none !important;
     }
 }

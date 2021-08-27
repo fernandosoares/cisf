@@ -49,5 +49,10 @@
     #hero .event-date {
         color: #fffffe
     }
+
+    #hero img {
+        max-height: 150px;
+        margin-left: -30px;
+    }
     
 }

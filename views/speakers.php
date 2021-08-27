@@ -100,7 +100,7 @@
                 <div class="col-12 date-panel">
                     <div class="d-md-flex align-items-center">
                         <p class="rounded-circle py-5 day d-md-flex justify-content-center align-items-center">DIA 3</p>
-                        <p class="date"><span>16 de setembro – das 17h às 18h30</span><br />Painel 3: Open Finance: Visão futura no ambiente de negócio<<br />BLOCO 2 - Cenário corporativo</p>
+                        <p class="date"><span>16 de setembro – das 17h às 18h30</span><br />Painel 3: Open Finance: Visão futura no ambiente de negócio<br />BLOCO 2 - Cenário corporativo</p>
                     </div>
                 </div>
             </div>

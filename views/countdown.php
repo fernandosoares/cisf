@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="btn-countdown col-12 col-md-6 d-flex justify-content-end align-items-center">
-            <a href="https://forms.rdstation.com.br/formulario-cisf-2021-59209088330aba625925" target="_blank" class="btn btn-primary go-to-form shadow">CLIQUE AQUI E INSCREVA-SE</a>
+            <a href="https://conteudos.abbc.org.br/formulario_inscricao" target="_blank" class="btn btn-primary go-to-form shadow">CLIQUE AQUI E INSCREVA-SE</a>
         </div>
     </div>
 </div>

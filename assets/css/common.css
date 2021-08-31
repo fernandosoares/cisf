@@ -31,3 +31,21 @@ body {
         display: none !important;
     }
 }
+
+ol { counter-reset: item; margin: 10px 0 !important; }
+ol>li{ display: block }
+ol>li:before { content: counters(item, ".") ". "; counter-increment: item }
+
+#privacy-policy table {
+    border-collapse: collapse;
+    margin: 40px 0 !important; 
+}
+
+#privacy-policy table, td, th {
+    border: solid 1px #333;
+    padding: 1rem;
+}
+
+#privacy-policy table tr[aria-rowindex="1"] {
+    background-color: #999;
+}

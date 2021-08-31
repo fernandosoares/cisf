@@ -16,7 +16,7 @@
                     As melhores práticas e estratégias aplicadas às novidades de mercado   
                 </p>
             </div>
-            <a href="#countdown" class="event-cta shadow btn btn-primary">CLIQUE AQUI E INSCREVA-SE</a>
+            <a href="https://conteudos.abbc.org.br/formulario_inscricao" target="_blank" class="event-cta shadow btn btn-primary">CLIQUE AQUI E INSCREVA-SE</a>
         </div>
     </div>
 </div>

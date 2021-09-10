@@ -53,7 +53,7 @@
                     <img class="mx-auto" src="<?= get_template_directory_uri() . '/assets/img/MARCELO_GUEDES.png'?>" alt="Marcelo Guedes">
                     <small>Palestrante</small>
                     <h4>Marcelo Guedes</h4>
-                    <p class="position">coordenador-geral de tecnologia e pesquisa da ANPD (Agência Nacional de Proteção de Dados)</p>
+                    <p class="position">coordenador-geral de tecnologia e pesquisa da ANPD (Autoridade Nacional de Proteção de Dados)</p>
                 </div>
                 <div class="speaker col-12 col-md-3 text-center">
                     <img class="mx-auto" src="<?= get_template_directory_uri() . '/assets/img/RENATO_DOLCI_NOVA.png'?>" alt="Renato Dolci">

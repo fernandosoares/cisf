@@ -22,7 +22,7 @@
                     <img class="mx-auto" src="<?= get_template_directory_uri() . '/assets/img/DENISE_HILLS_NOVA.png'?>" alt="Denise Hills">
                     <small>Palestrante</small>
                     <h4>Denise Hills</h4>
-                    <p class="position">diretora global de sustentabilidade da Natura</p>
+                    <p class="position">diretora de Sustentabilidade de Natura &Co Latam</p>
                 </div>
                 <div class="speaker col-12 col-md-4 text-center">
                     <img class="mx-auto" src="<?= get_template_directory_uri() . '/assets/img/CARLOS_PEREIRA_NOVA.png'?>" alt="Carlo Linkevieius Pereira">
